@@ -2,7 +2,7 @@
 
 📖 Sobre o Projeto
 
-Este projeto consiste em uma API REST simples desenvolvida com Flask, permitindo realizar operações básicas de cadastro e listagem de veículos.
+Este projeto consiste em uma API REST desenvolvida com Flask, permitindo realizar operações básicas de cadastro e listagem de veículos.
 
 A aplicação simula um backend real, com manipulação de dados em memória e endpoints acessíveis via requisições HTTP.
 
